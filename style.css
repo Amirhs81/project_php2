@@ -1,0 +1,194 @@
+body{
+    direction: rtl;
+}
+#container
+{
+    width: 1200px;
+    height: 1100px;
+    background-color:rgb(228, 228, 223);
+    margin-right: auto;
+margin-left:auto ;
+border-style: solid;
+border-color:darkblue;
+border: sise 1px;;
+
+}
+#A1
+{
+    width: 1195px;
+    height: 200px;
+background-color:darkblue;
+    margin-right: auto;
+    margin-left:auto ;
+    border-style: solid;
+    border-color:darkblue;
+    
+}
+#header{
+    width:1195px ;
+height:100px ;
+border-style: solid;
+border-color: red;
+    background-color: aqua;
+}
+#headerright{
+    width:100px ;
+    height:95px;
+border-style: solid;
+    border-color: red;
+float: right;
+}
+
+#headerlogo {
+    width: 250px;
+    height: 95px;
+    border-style: solid;
+    border-color: red;
+    float: right;
+}
+#headermiddel {
+    width: 450px;
+    height: 95px;
+    border-style: solid;
+    border-color: red;
+    float: right;
+    text-align: center;
+    font-size: 70px;
+}
+#headerleft {
+    width:250px;
+    height: 95px;
+    border-style: solid;
+    border-color: red;
+    float: right;
+}
+
+#headerleft-1 {
+    width: 115px;
+    height: 95px;
+    border-style: solid;
+    border-color: red;
+    float: right;
+}
+#menu{
+    width: 1195px;
+    height: 55px;
+    border-style: solid;
+border-color: red;
+    background-color:rgb(228, 228, 223);
+}
+#menu-1 {
+    width: 290px;
+    height: 50px;
+    padding-top: 13px;
+    float: right;
+    text-align:center ;
+font-size: 25px;
+color: red;
+    transition: all 1s;
+}
+#menu-1:hover
+{
+    color: darkblue;
+    border-radius: 20px;
+    transform: rotate(10deg);
+}
+#menu-2 {
+    width: 290px;
+    height: 50px;
+    padding-top: 13px;
+    float: right;
+    text-align:center ;
+    font-size: 25px;
+    color: red;
+    transition: all 1s;
+}
+#menu-2:hover
+{
+    color: darkblue;
+    border-radius: 20px;
+    transform: rotate(10deg);
+}
+
+#menu-3 {
+    width: 290px;
+    height: 50px;
+    padding-top: 13px;
+    float: right;
+    text-align:center ;
+    font-size: 25px;
+    color: red;
+    transition: all 1s;
+}
+
+#menu-3:hover
+{
+    color: darkblue;
+    border-radius: 20px;
+    transform: rotate(10deg);
+}
+#menu-4 {
+    width: 290px;
+    height: 50px;
+    padding-top: 13px;
+    float: right;
+    text-align:center ;
+    font-size: 25px;
+    color: red;
+    transition: all 1s;
+}
+#menu-4:hover
+{
+    color: darkblue;
+    border-radius: 20px;
+    transform: rotate(10deg);
+}
+#img{
+    width: 1195px;
+    height: 300px;
+    border-style: solid;
+    border-color: darkblue;
+}
+#img-1{
+    width: 392px;
+    height: 292px;
+    border-style: solid;
+border-color: red;
+    float: right;
+   
+}
+#img-2{
+    width: 392px;
+    height: 292px;
+    border-style: solid;
+    border-color: red;
+    float: right;
+
+}
+
+#img-3{
+    width: 392px;
+    height: 292px;
+    border-style: solid;
+    border-color: red;
+    float: right;
+}
+
+#text{
+    width: 1195px;
+    height: 70px;
+    border-style: solid;
+    border-color:darkblue;
+    background-color:rgb(228, 228, 223);
+}
+#film
+{
+    width: 1195px;
+    height: 340px;
+    border-style: solid;
+    border-color:darkblue;
+    background-color:rgb(228, 228, 223);
+}
+
+
+
